@@ -1,0 +1,6 @@
+{
+  "name": "Kambo WiFi Management System",
+  "description": "Full-stack management system for Kambo WiFi client invoicing, router shop stock, and repairs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
